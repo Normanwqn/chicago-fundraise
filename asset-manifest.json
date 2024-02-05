@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/chicago-fundraise/static/css/main.fc6d714b.css",
-    "main.js": "/chicago-fundraise/static/js/main.9d92d60e.js",
+    "main.css": "/chicago-fundraise/static/css/main.65cc3251.css",
+    "main.js": "/chicago-fundraise/static/js/main.d5e0f61a.js",
     "static/js/592.f2170c4f.chunk.js": "/chicago-fundraise/static/js/592.f2170c4f.chunk.js",
     "static/media/banner.webp": "/chicago-fundraise/static/media/banner.e614e8acadcba21fde71.webp",
     "static/media/signature_eng.png": "/chicago-fundraise/static/media/signature_eng.19372666b3528168e63d.png",
     "static/media/logo.svg": "/chicago-fundraise/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chicago-fundraise/index.html",
-    "main.fc6d714b.css.map": "/chicago-fundraise/static/css/main.fc6d714b.css.map",
-    "main.9d92d60e.js.map": "/chicago-fundraise/static/js/main.9d92d60e.js.map",
+    "main.65cc3251.css.map": "/chicago-fundraise/static/css/main.65cc3251.css.map",
+    "main.d5e0f61a.js.map": "/chicago-fundraise/static/js/main.d5e0f61a.js.map",
     "592.f2170c4f.chunk.js.map": "/chicago-fundraise/static/js/592.f2170c4f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc6d714b.css",
-    "static/js/main.9d92d60e.js"
+    "static/css/main.65cc3251.css",
+    "static/js/main.d5e0f61a.js"
   ]
 }
